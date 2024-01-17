@@ -4,7 +4,7 @@
 }
 
 body {
-	background: url(static/img/bg_pagina_167x167.jpg);
+	background: url(../img/bg_pagina_167x167.jpg);
 	font-family: Arial, verdana, georgia;
 	font-size: 14px;
 	color: black;
@@ -70,7 +70,7 @@ a:link {
 }
 
 .container_menu {
-	background: url(static/img/bg_menu_1x49.jpg) top repeat-x; 	
+	background: url(../img/bg_menu_1x49.jpg) top repeat-x; 	
 	box-shadow: 5px 5px 5px black;
 	-webkit-box-shadow: 5px 5px 5px black;
 	-moz-box-shadow: 5px 5px 5px black;
@@ -177,7 +177,7 @@ h1.titulo {
 }
 
 .fundoBrancoTransp {
-	background: url(static/img/bg_branco_transp.png);
+	background: url(../img/bg_branco_transp.png);
 }
 
 .ei {
@@ -224,7 +224,7 @@ h1.titulo {
 }
 #timer,
 #captions {
-	background: url(static/img/bg_vermelho_transp.png);
+	background: url(../img/bg_vermelho_transp.png);
 	width: 925px;
 	height: 50px;
 	position: absolute;
